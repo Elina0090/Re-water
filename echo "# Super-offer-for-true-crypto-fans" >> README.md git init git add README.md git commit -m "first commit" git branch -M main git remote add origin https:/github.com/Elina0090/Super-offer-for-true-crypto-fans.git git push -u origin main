@@ -1,0 +1,7 @@
+echo "# Super-offer-for-true-crypto-fans" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Elina0090/Super-offer-for-true-crypto-fans.git
+git push -u origin main
